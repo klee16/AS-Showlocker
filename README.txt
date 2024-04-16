@@ -1,8 +1,5 @@
 #SHOWLOCKER README
 
-Darina Dicheva
-Advanced Software Engineering 
-
 
 Developer: Kel Lee
 
